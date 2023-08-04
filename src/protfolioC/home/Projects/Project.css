@@ -1,0 +1,12 @@
+.projects{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 24px;
+    font-family:"Poppins Semilight";
+}
+.list{
+    margin-left: 12%;
+    margin-top: 2%;
+    text-align: left;
+}
